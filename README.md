@@ -1,5 +1,5 @@
 ### 저니녁 👋
-🔥 I'll be a Best Developer 🔥
+### <a href="https://velog.io/@jeon__ih" target="_blank/>🔥 I'll be a Best Developer 🔥</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs5025&show_icons=true&theme=merko)
 
