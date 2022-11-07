@@ -1,6 +1,9 @@
 
 ## I'll be a Best FE-Developer 🔥
 ### 저니녁
+
+[ModernJS and React 스터디 기록용 Youtube 채널](https://www.youtube.com/channel/UCdUqEj-gmY_sbgHw9iqdSlg)
+
 ### <a href="https://velog.io/@jeon__ih" target="_blank">🔗 Velog</a>
 ### <a href="https://dev-jeon.notion.site/ac79d69afb9641cf8866906d7b6bcd41" target="_blank">🔗 Notion</a>
 ### <a href="https://instagram.com/jeon__ih" target="_blank">🔗 Instagram</a>
