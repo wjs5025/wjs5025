@@ -7,7 +7,7 @@
 ### <a href="https://dev-jeon.notion.site/ac79d69afb9641cf8866906d7b6bcd41" target="_blank">🔗 Notion</a>
 ### <a href="https://instagram.com/jeon__ih" target="_blank">🔗 Instagram</a>
 ### <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%81-%EC%A0%84-2494a8241/" target="_blank">🔗 Linked In</a>
-### <a href="[https://www.youtube.com/channel/UCdUqEj-gmY_sbgHw9iqdSlg](http://bookky.cf)" target="_blank">🔗 개발자를 위한 도서 커뮤니티 Bookky</a>
+### <a href="http://bookky.cf" target="_blank">🔗 개발자를 위한 도서 커뮤니티 Bookky</a>
 
 ![Jeonny's Github](https://github-readme-stats.vercel.app/api?username=wjs5025&show_icons=true&theme=merko)
 
