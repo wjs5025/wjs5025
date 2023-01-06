@@ -8,6 +8,8 @@
 - 2023.01 - 2023.12 : SSAFY 9기 교육생 (The 9th Samsung Software Academy for Youth)
 - 2017.03 - 2023.02 : Gyeongsang National University 졸업 예정 (Majoring in Computer Science)
 
+# Experience
+- 2022.05 - 2022.12 : (네이버 커넥트 재단) 소프트웨어야 놀자! 대학생 멘토팀 'AI-I-GA' 팀장
 
 # Link
 ### <a href="https://velog.io/@jeon__ih" target="_blank">🔗 Velog, 개인 개발 블로그</a>
