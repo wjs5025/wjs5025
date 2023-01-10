@@ -15,7 +15,6 @@
 ### <a href="https://jeon-ny.tistory.com/" target="_blank">🔗 (Tistory 블로그) 저니녁의 개발 기록</a>
 ### <a href="https://www.youtube.com/channel/UCdUqEj-gmY_sbgHw9iqdSlg" target="_blank">🔗 ModernJS and React 스터디 기록용 Youtube 채널</a>
 ### <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%81-%EC%A0%84-2494a8241/" target="_blank">🔗 Linked In</a>
-### <a href="http://bookky.cf" target="_blank">🔗 개발자를 위한 도서 커뮤니티 Bookky</a>
 
 ![Jeonny's Github](https://github-readme-stats.vercel.app/api?username=wjs5025&show_icons=true&theme=merko)
 
