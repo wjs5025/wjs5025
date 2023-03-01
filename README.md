@@ -17,4 +17,4 @@
 ### <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%81-%EC%A0%84-2494a8241/" target="_blank">🔗 Linked In</a>
 
 ![Jeonny's Github](https://github-readme-stats.vercel.app/api?username=wjs5025&show_icons=true&theme=merko)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/wjs_5025/)
