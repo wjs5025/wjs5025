@@ -9,7 +9,9 @@
 - 2017.03 - 2023.02 : Gyeongsang National University 졸업 예정 (Majoring in Computer Science)
 
 # Experience
+- 2022.02 ~ ing : (SSAFY) SSAFYCial 9기 기자단
 - 2022.05 - 2022.12 : (네이버 커넥트 재단) 소프트웨어야 놀자! 대학생 멘토팀 'AI-I-GA' 팀장
+
 
 # Link
 ### <a href="https://jeon-ny.tistory.com/" target="_blank">🔗 (Tistory 블로그) 저니녁의 개발 기록</a>
