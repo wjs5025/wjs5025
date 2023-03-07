@@ -22,3 +22,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjs_5025)](https://solved.ac/wjs_5025/)
 
 ![Jeonny's Github](https://github-readme-stats.vercel.app/api?username=wjs5025&show_icons=true&theme=merko)
+
+# Certificate
+- 정보처리기사 (한국산업인력공단) / 필기 및 실기 최종 합격 / 2022.06.17
+- TOPCIT (과학기술정보통신부) / 3수준 취득 / 2022.05.21
+- SW 테스트 전문가(CSTS) (한국정보통신기술협회(TTA)) / 일반등급 취득 / 2021.03.20
