@@ -9,12 +9,12 @@
 
 # Education
 
-- 2023.01 - 2023.12 : SSAFY 9기 교육생 (The 9th Samsung Software Academy for Youth)
-- 2017.03 - 2023.02 : Gyeongsang National University 졸업 예정 (Majoring in Computer Science)
+- 삼성 청년 SW 아카데미 (SSAFY) 9기 교육생 (2023.01 - ing)
+- 경상 국립 대학교 졸업 (컴퓨터과학 전공) (2017.03 - 2023.02)
 
 # Experience
 
-- 삼성 청년 SW 아카데미(SSAFY) - SSAFYCial 9기 기자단 (2022.02 ~ ing)
+- 삼성 청년 SW 아카데미 (SSAFY) - SSAFYCial 9기 기자단 (2022.02 ~ ing)
 - 네이버 커넥트 재단 - 소프트웨어야 놀자! 대학생 멘토팀 'AI-I-GA' 팀장 (2022.05 - 2022.12)
   ​
 
