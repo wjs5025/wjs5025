@@ -30,13 +30,16 @@
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/java-F37626?style=for-the-badge&logo=java&logoColor=black">
 
-## FRONT-END
+## FrontEnd
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black"> <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black">
 
-## BACK-END
+## BackEnd
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/jsp-F37626?style=for-the-badge&logo=jsp&logoColor=black"> <img src="https://img.shields.io/badge/servlet-F37626?style=for-the-badge&logo=servlet&logoColor=black">
+
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjs_5025)](https://solved.ac/wjs_5025/)
 
 # Link
 
@@ -48,4 +51,4 @@
 
 ### <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%81-%EC%A0%84-2494a8241/" target="_blank">🔗 Linked In</a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjs_5025)](https://solved.ac/wjs_5025/)
+
