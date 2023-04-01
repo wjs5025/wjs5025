@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Developer-JEON&20render&fontSize=90)
 
-​
-
 # INFO
 
 - 프론트엔드 개발자 전인혁입니다 :\)
-  ​
 
 # Education
 
@@ -16,7 +13,6 @@
 
 - 삼성 청년 SW 아카데미 (SSAFY) - SSAFYCial 9기 기자단 (2022.02 ~ ing)
 - 네이버 커넥트 재단 - 소프트웨어야 놀자! 대학생 멘토팀 'AI-I-GA' 팀장 (2022.05 ~ 2022.12)
-  ​
 
 # Certificate
 
