@@ -40,7 +40,7 @@
 
 # Link
 
-### <a href="https://jeon-ny.tistory.com/" target="_blank">🔗 (Tistory 블로그) 저니녁의 개발 기록</a>
+### <a href="https://jeon-ny.tistory.com/" target="_blank">🔗 (Tistory 블로그) 전개발</a>
 
 ### <a href="https://www.notion.so/dev-jeon/Jeonny-ac79d69afb9641cf8866906d7b6bcd41?pvs=4" target="_blank">🔗 포트폴리오 (Notion)</a>
 
